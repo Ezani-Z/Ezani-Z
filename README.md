@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Ezani-Z
+- 👋 Hi, I’m Ezani Zulkefli
 - 👀 I’m interested in Cybersecuirty and Game Development
-- 🌱 I’m currently learning networking and game development
-- 💞️ I’m looking to collaborate on some project
-- 📫 
-- ⚡ Fun fact: I just start to be active on Github
+- 🌱 I’m currently learning networking for my bachelor
+- 📫 My hobby is reading and coding
 
 <!---
 Ezani-Z/Ezani-Z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
